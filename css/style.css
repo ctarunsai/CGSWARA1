@@ -1175,6 +1175,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #team {
+  margin-left: 40%;
   background: #fff;
   padding: 60px 0;
 }
