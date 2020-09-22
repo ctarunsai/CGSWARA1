@@ -1651,3 +1651,48 @@ body.mobile-nav-active #mobile-nav-toggle {
 #more {display: none;}
 #more2 {display: none;}
 
+/* News Section
+--------------------------------*/
+
+#news {
+  background: #fff;
+  background-size: cover;
+  padding: 10px 0 40px 0;
+}
+
+#news .box {
+  margin-bottom: 30px;
+}
+
+#news .icon {
+  float: left;
+}
+
+#news .icon i {
+  color: #18d26e;
+  font-size: 36px;
+  line-height: 1;
+  transition: 0.5s;
+}
+
+#news .title {
+  margin-left: 60px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+#news .title a {
+  color: #111;
+}
+
+#news .box:hover .title a {
+  color: #18d26e;
+}
+
+#news .description {
+  font-size: 14px;
+  margin-left: 60px;
+  line-height: 24px;
+  margin-bottom: 0;
+}
